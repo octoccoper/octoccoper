@@ -24,6 +24,10 @@ I can build innovative web applications with:
 
 😄 Pronouns: she/her
 
+<img alt="octoccoper's GitHub stats"
+src="https://github-readme-stats.vercel.app/api?username=octoccoperi&show_icons=true&theme=transparent"/>
+
+
 ⚡ Joke of the day:
 Why did the wizard refuse to play hide and seek?
 Because good luck hiding when your robe sparkles and your hat shouts, "Here I am!"
