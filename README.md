@@ -23,3 +23,7 @@ I can build innovative web applications with:
 </ul>
 
 😄 Pronouns: she/her
+
+⚡ Joke of the day:
+Why did the wizard refuse to play hide and seek?
+Because good luck hiding when your robe sparkles and your hat shouts, "Here I am!"
