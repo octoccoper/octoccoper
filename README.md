@@ -34,10 +34,11 @@ I can build innovative web applications with:
     srcset="https://github-readme-stats.vercel.app/api?username=octoccoper&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=octoccoper&show_icons=true" />
 </picture>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/octoccoper/github-readme-stats)
+<br/>
 ⚡ Joke of the day:
 Why did the wizard refuse to play hide and seek?
 Because good luck hiding when your robe sparkles and your hat shouts, "Here I am!"
