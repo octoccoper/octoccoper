@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+My name is Kate.
 <!--
-**octoccoper/octoccoper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I can build innovative web applications with:
+<ul>
+  <li style="color: #3498db; font-size: 18px; font-weight: bold;">JavaScript</li>
+  <li style="color: #2ecc71; font-size: 18px; font-weight: bold;">TypeScript</li>
+  <li style="color: #e74c3c; font-size: 18px; font-weight: bold; font-style: italic;">React.js and Next.js</li>
+  <li style="color: #27ae60; font-size: 18px; font-weight: bold;">Node.js</li>
+</ul>
+
+- 😄 Pronouns: she/her
