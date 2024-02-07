@@ -27,6 +27,8 @@ I can build innovative web applications with:
 <img alt="octoccoper's GitHub stats"
 src="https://github-readme-stats.vercel.app/api?username=octoccoper&show_icons=true&theme=transparent"/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=octoccoper)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ⚡ Joke of the day:
 Why did the wizard refuse to play hide and seek?
