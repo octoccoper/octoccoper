@@ -25,6 +25,7 @@ I can build innovative web applications with:
 😄 Pronouns: she/her
 
 
+<div>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=octoccoper&show_icons=true&theme=dark"
@@ -36,8 +37,9 @@ I can build innovative web applications with:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=octoccoper&show_icons=true" />
 </picture>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octoccoper&layout=compact)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/octoccoper/github-readme-stats)
 <br/>
 ⚡ Joke of the day:
 Why did the wizard refuse to play hide and seek?
