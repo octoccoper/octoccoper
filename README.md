@@ -25,7 +25,7 @@ I can build innovative web applications with:
 😄 Pronouns: she/her
 
 <img alt="octoccoper's GitHub stats"
-src="https://github-readme-stats.vercel.app/api?username=octoccoperi&show_icons=true&theme=transparent"/>
+src="https://github-readme-stats.vercel.app/api?username=octoccoper&show_icons=true&theme=transparent"/>
 
 
 ⚡ Joke of the day:
