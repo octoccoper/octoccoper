@@ -39,7 +39,8 @@ I can build innovative web applications with:
   
 </div>
 
-<img src="https://profile-counter.glitch.me/{octoccoper}/count.svg" alt="octoccoper :: Visitor's Count" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=octoccoper&theme=tokyonight" alt="mystreak"/>
+
 
 <br/>
 ⚡ Joke of the day:
