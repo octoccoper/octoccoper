@@ -1,6 +1,6 @@
-### Hi there 👋
+![Header](./github-header-image.png)
 
-My name is Kate.
+
 <!--
 
 Here are some ideas to get you started:
