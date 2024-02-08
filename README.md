@@ -22,8 +22,6 @@ I can build innovative web applications with:
   <li style="color: #27ae60; font-size: 18px; font-weight: bold;">Node.js</li>
 </ul>
 
-😄 Pronouns: she/her
-
 
 <div>
 <picture>
