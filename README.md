@@ -39,7 +39,7 @@ I can build innovative web applications with:
   
 </div>
 
-<img src="https://widgetbite.com/stats/octoccoper" alt="watching_count" />
+<img src="https://profile-counter.glitch.me/{octoccoper}/count.svg" alt="octoccoper :: Visitor's Count" />
 
 <br/>
 ⚡ Joke of the day:
