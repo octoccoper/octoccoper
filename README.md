@@ -38,7 +38,7 @@ I can build innovative web applications with:
 </picture>
 </div>
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=octoccoper&theme=tokyonight" alt="mystreak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=octoccoper&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </div>
