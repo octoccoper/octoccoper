@@ -24,7 +24,6 @@ I can build innovative web applications with:
 
 😄 Pronouns: she/her
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=octoccoper&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <div>
 <picture>
@@ -39,7 +38,11 @@ I can build innovative web applications with:
 </picture>
 </div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=octoccoper&theme=tokyonight" alt="mystreak"/>
+<div style="display: flex;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=octoccoper&theme=tokyonight" alt="mystreak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=octoccoper&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</div>
+
 
 
 <br/>
