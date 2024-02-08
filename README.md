@@ -39,7 +39,8 @@ I can build innovative web applications with:
 </picture>
   
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://widgetbite.com/stats/octoccoper" alt="watching_count" />
 
 <br/>
 ⚡ Joke of the day:
