@@ -23,20 +23,6 @@ I can build innovative web applications with:
 </ul>
 
 
-<div>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=octoccoper&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=octoccoper&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-</picture>
-</div>
-
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=octoccoper&theme=tokyonight" alt="mystreak"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=octoccoper&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
