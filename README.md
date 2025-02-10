@@ -1,4 +1,6 @@
+Hi there! 
 
+My name is Kate.
 <!--
 
 Here are some ideas to get you started:
